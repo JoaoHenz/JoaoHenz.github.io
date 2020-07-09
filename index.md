@@ -14,7 +14,7 @@ Previous experience with
 - Agile Methodologies
 - Very advanced english skills, native speaker of portuguese, moderate skills with german and basic skills in japanese
 <p align="center">
-  <img src="h/assets/images/foto.jpg" width="50%" />
+  <img src="/assets/images/foto.jpg" width="50%" />
 </p>
 
 # Current Projects:
