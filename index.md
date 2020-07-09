@@ -2,4 +2,4 @@
 layout: default
 ---
 
-# Hello! My name is João Henz and I am a game programmer!
+# Hello! My name is Joao Henz and I am a game programmer!
