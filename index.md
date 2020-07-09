@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello! My name is João Henz and I am a game programmer!
+# Hello! My name is JoÃ£o Henz and I am a game programmer!
 
 I recently finished my Computer Science bachelor course  at UFRGS (1/2019).  I have 5+ years of experience in programming and have been a part of multiple sucessful game jam teams.
 
@@ -18,11 +18,11 @@ Very advanced english skills, native speaker of portuguese, moderate skills with
 
 ![Joao Henz](/assets/images/foto.jpg)
 
-Current Projects:
+# Current Projects:
 I am currently working with two companies from Porto Alegre. Both are small teams and work at distance:
 
-Software Developer at MegaDev: 
-October, 2019 -> Present
+## Software Developer at MegaDev: 
+### October, 2019 -> Present
 In MegaDev I work with a team of 4 developers at a distance. This project involves the complete development of a MMORPG inspired by a classic of the genre using the Unity Engine. I am responsible for the almost all client related systems and we are in late stages of development, joining front and backend of the project.
 
 ![Vendor NPC](/assets/images/mega1.png)
@@ -31,8 +31,8 @@ Vendor NPC interaction
 ![Combat with monsters](/assets/images/mega2.png)
 Combat with monsters and special skills usage
 
-Software Developer at WorldRag / NewRO:
-December, 2019 -> Present
+## Software Developer at WorldRag / NewRO:
+### December, 2019 -> Present
 I work with a team of 3 developers working at a distance in the WorldRag and Newro servers. I am responsible mainly for content creation - new dungeons, cities, instances and events. All of this is done using python, SQL and rAthena's script language. I have also been responsible for the implementation of multiple online features for the server's website using PHP and HTML.
 
 ![Mysteries of Geffenia](/assets/images/rag2.png)
@@ -45,7 +45,7 @@ http://forum.newro.com.br
 http://www2.worldrag.com/forum
 https://www.twitch.tv/worldrag_oficial
 
-Old projects:
+# Old projects:
 
 ![BOTZ](/assets/images/botz.png)
 BOTZ
@@ -65,7 +65,7 @@ Pacman - A small Pacman remake I made in Unity following closely the AI of the o
 ![Conclusion Work](/assets/images/tcc.png)
 Virtual Realistic and Large Terrain Generation via Machine Learning - My conclusion work for my Bachelor's Degree in Computer Science (UFRGS)
 
-Contact
+# Contact
 [facebook.com/joaobatista.maniquehenz](https://www.facebook.com/joaobatista.maniquehenz)
 [linkedin.com/joao-henz](https://www.linkedin.com/in/joao-henz/)
 [github.com/SaintBallista](https://github.com/SaintBallista)
