@@ -16,7 +16,7 @@ Google Drive, SourceTree, Git
 Agile Methodologies
 Very advanced english skills, native speaker of portuguese, moderate skills with german and basic skills in japanese
 
-![Joao Henz](/assets/images/foto.jpg)
+![Joao Henz](/assets/images/foto.jpg)<br/><br/><br/>
 
 # Current Projects:
 I am currently working with two companies from Porto Alegre. Both are small teams and work at distance:
@@ -41,9 +41,9 @@ The "Mysteries of Geffenia" was a series of dungeons connected to a bigger story
 ![King of Quests](/assets/images/rag1.png)
 The famous "King of Quests" event in the WorldRag and NewRO servers
 
-http://forum.newro.com.br
-http://www2.worldrag.com/forum
-https://www.twitch.tv/worldrag_oficial
+[forum.newro.com.br](http://forum.newro.com.br)<br/>
+[worldrag.com/forum](http://www2.worldrag.com/forum)<br/>
+[twitch.tv/worldrag_oficial](https://www.twitch.tv/worldrag_oficial)<br/><br/><br/>
 
 # Old projects:
 
@@ -59,25 +59,18 @@ MIND BLOWING DANCE STREAM - Best in the general category in Global Game Jam 2018
 ![HONEY Gameplay](/assets/images/honey2.png)
 HONEY, I'M HOME! - Best game of Global Game Jam 2019 Unisinos by ADjogos RS choice
 
-![Black Friday Title](/assets/images/blackfriday3.png)<br/><br/>
-![Black Friday Gameplay](/assets/images/blackfriday2.png)<br/><br/>
+![Black Friday Title](/assets/images/blackfriday3.png)<br/>
+![Black Friday Gameplay](/assets/images/blackfriday2.png)<br/>
 Black Friday Madness - Global Game Jam Unisinos 2017
 
 ![Pacman](/assets/images/pacman.png)
 Pacman - A small Pacman remake I made in Unity following closely the AI of the original game
 
 ![Conclusion Work](/assets/images/tcc.png)
-Virtual Realistic and Large Terrain Generation via Machine Learning - My conclusion work for my Bachelor's Degree in Computer Science (UFRGS)
+Virtual Realistic and Large Terrain Generation via Machine Learning - My conclusion work for my Bachelor's Degree in Computer Science (UFRGS)<br/><br/>
 
 # Contact
-[facebook.com/joaobatista.maniquehenz](https://www.facebook.com/joaobatista.maniquehenz)
-[linkedin.com/joao-henz](https://www.linkedin.com/in/joao-henz/)
-[github.com/SaintBallista](https://github.com/SaintBallista)
+[facebook.com/joaobatista.maniquehenz](https://www.facebook.com/joaobatista.maniquehenz)<br/>
+[linkedin.com/joao-henz](https://www.linkedin.com/in/joao-henz/)<br/>
+[github.com/SaintBallista](https://github.com/SaintBallista)<br/>
 jmaniquehenz@gmail.com
-
-[Link to example](./example.html)
-
-
-```
-The final element.
-```
