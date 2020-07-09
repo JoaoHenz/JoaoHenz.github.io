@@ -47,17 +47,19 @@ https://www.twitch.tv/worldrag_oficial
 
 # Old projects:
 
-![BOTZ](/assets/images/botz.png)
+![BOTZ Title](/assets/images/botz.png)
+![BOTZ Gameplay](/assets/images/botz2.png)
 BOTZ
 
-![MIND BLOWING DANCE STREAM](/assets/images/mindblowing.png)
+![MIND BLOWING Title](/assets/images/mindblowing.png)
+![MIND BLOWING Gameplay](/assets/images/mindblowing2.png)
 MIND BLOWING DANCE STREAM - Best in the general category in Global Game Jam 2018 Unisinos by public vote
 
 ![HONEY, I'M HOME!](/assets/images/honey.png)
 ![HONEY Gameplay](/assets/images/honey2.png)
 HONEY, I'M HOME! - Best game of Global Game Jam 2019 Unisinos by ADjogos RS choice
 
-![Black Friday Madness](/assets/images/blackfriday.png)<br/><br/>
+![Black Friday Title](/assets/images/blackfriday.png)<br/><br/>
 ![Black Friday Gameplay](/assets/images/blackfriday2.png)<br/><br/>
 Black Friday Madness - Global Game Jam Unisinos 2017
 
