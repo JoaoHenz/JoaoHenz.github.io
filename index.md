@@ -8,13 +8,15 @@ I also have a lot of experience with machine learning and procedural content gen
 I love working with a team, coordinating our efforts and dealing with difficult programming challenges. I aspire to one day lead a game dev team.
 
 Previous experience with
-C, C#, C++, Java, Python, html, javascript, PHP
-Unity, Gamemaker, Unreal Engine
-Google Drive, SourceTree, Git
-Agile Methodologies
-Very advanced english skills, native speaker of portuguese, moderate skills with german and basic skills in japanese
+- C, C#, C++, Java, Python, html, javascript, PHP
+- Unity, Gamemaker, Unreal Engine
+- Google Drive, SourceTree, Git
+- Agile Methodologies
+- Very advanced english skills, native speaker of portuguese, moderate skills with german and basic skills in japanese
 
-![Joao Henz](/assets/images/foto.jpg)<br/><br/><br/>
+<p align="center">
+  <img src="assets/images/foto.jpg" alt="Foto Joao Henz" width="200" />
+</p>
 
 # Current Projects:
 I am currently working with two companies from Porto Alegre. Both are small teams and work at distance:
