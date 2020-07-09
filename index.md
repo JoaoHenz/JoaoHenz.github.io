@@ -59,7 +59,7 @@ MIND BLOWING DANCE STREAM - Best in the general category in Global Game Jam 2018
 ![HONEY Gameplay](/assets/images/honey2.png)
 HONEY, I'M HOME! - Best game of Global Game Jam 2019 Unisinos by ADjogos RS choice
 
-![Black Friday Title](/assets/images/blackfriday.png)<br/><br/>
+![Black Friday Title](/assets/images/blackfriday3.png)<br/><br/>
 ![Black Friday Gameplay](/assets/images/blackfriday2.png)<br/><br/>
 Black Friday Madness - Global Game Jam Unisinos 2017
 
