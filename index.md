@@ -10,13 +10,13 @@ I also have a lot of experience with machine learning and procedural content gen
 I love working with a team, coordinating our efforts and dealing with difficult programming challenges. I aspire to one day lead a game dev team.
 
 Previous experience with
-- C, C#, C++, Java, Python, html, javascript, PHP
-- Unity, Gamemaker, Unreal Engine
-- Google Drive, SourceTree, Git
-- Agile Methodologies
-- Very advanced english skills, native speaker of portuguese, moderate skills with german and basic skills in japanese
+C, C#, C++, Java, Python, html, javascript, PHP
+Unity, Gamemaker, Unreal Engine
+Google Drive, SourceTree, Git
+Agile Methodologies
+Very advanced english skills, native speaker of portuguese, moderate skills with german and basic skills in japanese
 
-![Joao Henz](/assets/images/foto.jpg)?
+![Joao Henz](/assets/images/foto.jpg)
 
 # Current Projects:
 I am currently working with two companies from Porto Alegre. Both are small teams and work at distance:
@@ -33,7 +33,7 @@ Combat with monsters and special skills usage
 
 ## Software Developer at WorldRag / NewRO:
 ### December, 2019 -> Present
-I work with a team of 3 developers working at a distance in the WorldRag and Newro servers. I am responsible mainly for content creation - new dungeons, cities, instances and events. All of this is done using python, SQL and rAthena?'s script language. I have also been responsible for the implementation of multiple online features for the server's website using PHP and HTML.
+I work with a team of 3 developers working at a distance in the WorldRag and Newro servers. I am responsible mainly for content creation - new dungeons, cities, instances and events. All of this is done using python, SQL and rAthena's script language. I have also been responsible for the implementation of multiple online features for the server's website using PHP and HTML.
 
 ![Mysteries of Geffenia](/assets/images/rag2.png)
 The "Mysteries of Geffenia" was a series of dungeons connected to a bigger story driven event called "War Against Urheimur
@@ -72,3 +72,8 @@ Virtual Realistic and Large Terrain Generation via Machine Learning - My conclus
 jmaniquehenz@gmail.com
 
 [Link to example](./example.html)
+
+
+```
+The final element.
+```
