@@ -16,7 +16,7 @@ Previous experience with
 - Agile Methodologies
 - Very advanced english skills, native speaker of portuguese, moderate skills with german and basic skills in japanese
 
-![João Henz](/assets/images/foto.jpg)?
+![Joao Henz](/assets/images/foto.jpg)?
 
 # Current Projects:
 I am currently working with two companies from Porto Alegre. Both are small teams and work at distance:
