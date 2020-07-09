@@ -19,31 +19,31 @@ Previous experience with
 ![João Henz](/assets/images/foto.jpg)?
 
 # Current Projects:
-?Currently working with two companies from Porto Alegre. Both are small teams and work at distance:
+I am currently working with two companies from Porto Alegre. Both are small teams and work at distance:
 
 ## Software Developer at MegaDev: 
 ### October, 2019 -> Present
-?In MegaDev I work with a team of 4 developers at a distance. This project involves the complete development of a MMORPG inspired by a classic of the genre using the Unity Engine. I am responsible for the almost all client related systems and we are in late stages of development, joining front and backend of the project.
+In MegaDev I work with a team of 4 developers at a distance. This project involves the complete development of a MMORPG inspired by a classic of the genre using the Unity Engine. I am responsible for the almost all client related systems and we are in late stages of development, joining front and backend of the project.
 
 ![Vendor NPC](/assets/images/mega1.png)
 Vendor NPC interaction
- ?
+
 ![Combat with monsters](/assets/images/mega2.png)
-Combat with monsters and special skills usage?
+Combat with monsters and special skills usage
 
 ## Software Developer at WorldRag / NewRO:
 ### December, 2019 -> Present
-?I work with a team of 3 developers working at a distance in the WorldRag and Newro servers. I am responsible mainly for content creation - new dungeons, cities, instances and events. All of this is done using python, SQL and rAthena?'s script language. I have also been responsible for the implementation of multiple online features for the server's website using PHP and HTML.
+I work with a team of 3 developers working at a distance in the WorldRag and Newro servers. I am responsible mainly for content creation - new dungeons, cities, instances and events. All of this is done using python, SQL and rAthena?'s script language. I have also been responsible for the implementation of multiple online features for the server's website using PHP and HTML.
 
 ![Mysteries of Geffenia](/assets/images/rag2.png)
 The "Mysteries of Geffenia" was a series of dungeons connected to a bigger story driven event called "War Against Urheimur
 
 ![King of Quests](/assets/images/rag1.png)
-The famous "King of Quests" event in the WorldRag and NewRO servers?
+The famous "King of Quests" event in the WorldRag and NewRO servers
 
-http://forum.newro.com.br/?
-http://www2.worldrag.com/forum/?
-https://www.twitch.tv/worldrag_oficial?
+http://forum.newro.com.br
+http://www2.worldrag.com/forum
+https://www.twitch.tv/worldrag_oficial
 
 # Old projects:
 
@@ -62,7 +62,7 @@ Black Friday Madness - Global Game Jam Unisinos 2017
 ![Pacman](/assets/images/pacman.png)
 Pacman - A small Pacman remake I made in Unity following closely the AI of the original game
 
-![VRLTGML](/assets/images/tcc.png)
+![Conclusion Work](/assets/images/tcc.png)
 Virtual Realistic and Large Terrain Generation via Machine Learning - My conclusion work for my Bachelor's Degree in Computer Science (UFRGS)
 
 # Contact
