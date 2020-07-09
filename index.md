@@ -54,9 +54,11 @@ BOTZ
 MIND BLOWING DANCE STREAM - Best in the general category in Global Game Jam 2018 Unisinos by public vote
 
 ![HONEY, I'M HOME!](/assets/images/honey.png)
+![HONEY Gameplay](/assets/images/honey2.png)
 HONEY, I'M HOME! - Best game of Global Game Jam 2019 Unisinos by ADjogos RS choice
 
-![Black Friday Madness](/assets/images/blackfriday.png)
+![Black Friday Madness](/assets/images/blackfriday.png)<br/><br/>
+![Black Friday Gameplay](/assets/images/blackfriday2.png)<br/><br/>
 Black Friday Madness - Global Game Jam Unisinos 2017
 
 ![Pacman](/assets/images/pacman.png)
