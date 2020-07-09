@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Hello! My name is João Henz and I am a game programmer!
-
 I recently finished my Computer Science bachelor course  at UFRGS (1/2019).  I have 5+ years of experience in programming and have been a part of multiple sucessful game jam teams.
 
 I also have a lot of experience with machine learning and procedural content generation. My Computer Science conclusion work was in the area of Procedural Terrain Generation via Machine Learning.
