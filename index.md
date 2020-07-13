@@ -33,7 +33,7 @@ Combat with monsters and special skills usage
 
 ## Software Developer at WorldRag / NewRO:
 ### December, 2019 -> Present
-I work with a team of 3 developers working at a distance in the WorldRag and Newro servers. I am responsible mainly for content creation - new dungeons, cities, instances and events. All of this is done using python, SQL and rAthena's script language. I have also been responsible for the implementation of multiple online features for the server's website using PHP and HTML.
+I work with a team of 3 developers working at a distance in the WorldRag and Newro servers. I am responsible mainly for content creation - new dungeons, cities, instances and events. All of this is done using python, SQL and [rAthena's script language](https://rathena.org/). I have also been responsible for the implementation of multiple online features for the server's website using PHP and HTML.
 
 ![Mysteries of Geffenia](/assets/images/rag2.png)
 The "Mysteries of Geffenia" was a series of dungeons connected to a bigger story driven event called "War Against Urheimur
