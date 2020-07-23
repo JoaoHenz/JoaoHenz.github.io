@@ -23,7 +23,7 @@ I am currently working with two companies from Porto Alegre. Both are small team
 
 ## Software Developer at MegaDev: 
 ### October, 2019 -> Present
-In MegaDev I work with a team of 4 developers at a distance. This project involves the complete development of a MMORPG inspired by a classic of the genre using the Unity Engine. I am responsible for the almost all client related systems and we are in late stages of development, joining front and backend of the project.
+In MegaDev I work with a team of 4 developers at a distance. This project involves the complete development of a MMORPG inspired by a classic of the genre using the Unity Engine. I am responsible for almost all client related systems and we are in late stages of development, joining front and backend of the project.
 
 ![Vendor NPC](/assets/images/mega1.png)
 Vendor NPC interaction
