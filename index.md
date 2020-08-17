@@ -78,5 +78,5 @@ Virtual Realistic and Large Terrain Generation via Machine Learning - My conclus
 # Contact
 [facebook.com/joaobatista.maniquehenz](https://www.facebook.com/joaobatista.maniquehenz)<br/>
 [linkedin.com/joao-henz](https://www.linkedin.com/in/joao-henz/)<br/>
-[github.com/SaintBallista](https://github.com/SaintBallista)<br/>
+[github.com/JoaoHenz](https://github.com/JoaoHenz)<br/>
 jmaniquehenz@gmail.com
