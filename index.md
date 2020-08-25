@@ -50,35 +50,35 @@ The famous "King of Quests" event in the WorldRag and NewRO servers
 ![KnifeHit](/assets/images/portfo.png)
 Knife Hit Remake - A simple gameplay remake of the Knife Hit game for Android focusing on code quality and the use of design patterns.
 Check the Code at [github.com/JoaoHenz/KnifeHit](https://github.com/JoaoHenz/KnifeHit)<br/>
-[Download the APK](https://drive.google.com/file/d/12z6xP7POGXwoXhea6ZWLNv31R9EvQo5L/view?usp=sharing)<br/>
+[Download the APK](https://drive.google.com/file/d/12z6xP7POGXwoXhea6ZWLNv31R9EvQo5L/view?usp=sharing)<br/><br/>
 
 ![BOTZ Title](/assets/images/botz.png)
 ![BOTZ Gameplay](/assets/images/botz2.png)
 BOTZ
-[quemnaojoga.itch.io/botz](https://quemnaojoga.itch.io/botz)<br/>
+[quemnaojoga.itch.io/botz](https://quemnaojoga.itch.io/botz)<br/><br/>
 
 ![MIND BLOWING Title](/assets/images/mindblowing.png)
 ![MIND BLOWING Gameplay](/assets/images/mindblowing2.png)
 MIND BLOWING DANCE STREAM - Best in the general category in Global Game Jam 2018 Unisinos by public vote
-[globalgamejam.org/2018/games/mind-blowing-dance-stream](https://globalgamejam.org/2018/games/mind-blowing-dance-stream)<br/>
+[globalgamejam.org/2018/games/mind-blowing-dance-stream](https://globalgamejam.org/2018/games/mind-blowing-dance-stream)<br/><br/>
 
 ![HONEY, I'M HOME!](/assets/images/honey.png)
 ![HONEY Gameplay](/assets/images/honey2.png)
 HONEY, I'M HOME! - Best game of Global Game Jam 2019 Unisinos by ADjogos RS choice
-[globalgamejam.org/2019/games/honey-im-home](https://globalgamejam.org/2019/games/honey-im-home)<br/>
+[globalgamejam.org/2019/games/honey-im-home](https://globalgamejam.org/2019/games/honey-im-home)<br/><br/>
 
 ![Black Friday Title](/assets/images/blackfriday3.png)<br/>
 ![Black Friday Gameplay](/assets/images/blackfriday2.png)<br/>
 Black Friday Madness - Global Game Jam Unisinos 2017
-[globalgamejam.org/2017/games/black-friday-madness](https://globalgamejam.org/2017/games/black-friday-madness)<br/>
+[globalgamejam.org/2017/games/black-friday-madness](https://globalgamejam.org/2017/games/black-friday-madness)<br/><br/>
 
 ![Pacman](/assets/images/pacman.png)
 Pacman - A small Pacman remake I made in Unity following closely the AI of the original game
-[github.com/SaintBallista/pacmantest](https://github.com/SaintBallista/pacmantest)<br/>
+[github.com/SaintBallista/pacmantest](https://github.com/SaintBallista/pacmantest)<br/><br/>
 
 ![Conclusion Work](/assets/images/tcc.png)
 Virtual Realistic and Large Terrain Generation via Machine Learning - My conclusion work for my Bachelor's Degree in Computer Science (UFRGS)
-[github.com/SaintBallista/styleterrain](https://github.com/SaintBallista/styleterrain)<br/><br/>
+[github.com/SaintBallista/styleterrain](https://github.com/SaintBallista/styleterrain)<br/><br/><br/>
 
 # Contact
 [facebook.com/joaobatista.maniquehenz](https://www.facebook.com/joaobatista.maniquehenz)<br/>
