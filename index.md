@@ -45,11 +45,11 @@ The famous "King of Quests" event in the WorldRag and NewRO servers
 [worldrag.com/forum](http://www2.worldrag.com/forum)<br/>
 [twitch.tv/worldrag_oficial](https://www.twitch.tv/worldrag_oficial)<br/><br/><br/>
 
-# Old projects:
+# Other projects:
 
 ![KnifeHit](/assets/images/portfo.png)
 Knife Hit Remake - A simple gameplay remake of the Knife Hit game for Android focusing on code quality and the use of design patterns.
-Check the Code at [github.com/JoaoHenz/KnifeHit](https://github.com/JoaoHenz/KnifeHit)
+Check the Code at [github.com/JoaoHenz/KnifeHit](https://github.com/JoaoHenz/KnifeHit)<br/>
 [Download the APK](https://drive.google.com/file/d/12z6xP7POGXwoXhea6ZWLNv31R9EvQo5L/view?usp=sharing)
 
 ![BOTZ Title](/assets/images/botz.png)
