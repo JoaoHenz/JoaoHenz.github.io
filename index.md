@@ -52,11 +52,6 @@ Knife Hit Remake - A simple gameplay remake of the Knife Hit game for Android fo
 Check the Code at [github.com/JoaoHenz/KnifeHit](https://github.com/JoaoHenz/KnifeHit)<br/>
 [Download the APK](https://drive.google.com/file/d/12z6xP7POGXwoXhea6ZWLNv31R9EvQo5L/view?usp=sharing)<br/><br/>
 
-![BOTZ Title](/assets/images/botz.png)
-![BOTZ Gameplay](/assets/images/botz2.png)
-BOTZ
-[quemnaojoga.itch.io/botz](https://quemnaojoga.itch.io/botz)<br/><br/>
-
 ![MIND BLOWING Title](/assets/images/mindblowing.png)
 ![MIND BLOWING Gameplay](/assets/images/mindblowing2.png)
 MIND BLOWING DANCE STREAM - Best in the general category in Global Game Jam 2018 Unisinos by public vote
@@ -66,6 +61,11 @@ MIND BLOWING DANCE STREAM - Best in the general category in Global Game Jam 2018
 ![HONEY Gameplay](/assets/images/honey2.png)
 HONEY, I'M HOME! - Best game of Global Game Jam 2019 Unisinos by ADjogos RS choice
 [globalgamejam.org/2019/games/honey-im-home](https://globalgamejam.org/2019/games/honey-im-home)<br/><br/>
+
+![BOTZ Title](/assets/images/botz.png)
+![BOTZ Gameplay](/assets/images/botz2.png)
+BOTZ
+[quemnaojoga.itch.io/botz](https://quemnaojoga.itch.io/botz)<br/><br/>
 
 ![Black Friday Title](/assets/images/blackfriday3.png)<br/>
 ![Black Friday Gameplay](/assets/images/blackfriday2.png)<br/>
