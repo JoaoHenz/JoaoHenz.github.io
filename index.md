@@ -2,16 +2,16 @@
 layout: default
 ---
 
-I recently finished my Computer Science bachelor course  at UFRGS (1/2019).  I have 5+ years of experience in programming and have been a part of multiple sucessful game jam teams.
+I finished my Computer Science bachelor course at UFRGS (1/2019). I have 5+ years of experience in programming, 2 years of professional experience working with digital games and have been a part of multiple sucessful game jam teams.
 
-I also have a lot of experience with machine learning and procedural content generation. My Computer Science conclusion work was in the area of Procedural Terrain Generation via Machine Learning.
-I love working with a team, coordinating our efforts and dealing with difficult programming challenges. I aspire to one day lead a game dev team.
+I also have a lot of experience with machine learning and procedural content generation. My Computer Science conclusion work was in the area of Procedural Terrain Generation via Machine Learning. I love working with a team, coordinating our efforts and dealing with difficult programming challenges. I aspire to one day lead a game dev team.
 
 Previous experience with
 - C, C#, C++, Java, Python, html, javascript, PHP
 - Unity, Gamemaker, Unreal Engine
-- Google Drive, SourceTree, Git
-- Agile Methodologies
+- SourceTree, Git, Fork, XCode, Transporter, Android Studio
+- Agile Methodologies, ClickUp, Trello
+- AppStore, PlayStore
 - Very advanced english skills, native speaker of portuguese, moderate skills with german and basic skills in japanese
 
 <p align="center">
@@ -19,10 +19,15 @@ Previous experience with
 </p>
 
 # Current Projects:
-I am currently working with two companies from Porto Alegre. Both are small teams and work at distance:
+
+## Game Programmer at Izyplay Game Studio: 
+### September, 2020 -> Present
+I am currently working with at Izyplay Game Studio in Porto Alegre.
+
+# Old freelancer work:
 
 ## Software Developer at MegaDev: 
-### October, 2019 -> Present
+### October, 2019 -> October, 2020
 In MegaDev I work with a team of 4 developers at a distance. This project involves the complete development of a MMORPG inspired by a classic of the genre using the Unity Engine. I am responsible for almost all client related systems and we are in late stages of development, joining front and backend of the project.
 
 ![Vendor NPC](/assets/images/mega1.png)
@@ -32,7 +37,7 @@ Vendor NPC interaction
 Combat with monsters and special skills usage
 
 ## Software Developer at WorldRag / NewRO:
-### December, 2019 -> Present
+### December, 2019 -> October, 2020
 I work with a team of 3 developers working at a distance in the WorldRag and Newro servers. I am responsible mainly for content creation - new dungeons, cities, instances and events. All of this is done using python, SQL and [rAthena's script language](https://rathena.org/). I have also been responsible for the implementation of multiple online features for the server's website using PHP and HTML.
 
 ![Mysteries of Geffenia](/assets/images/rag2.png)
