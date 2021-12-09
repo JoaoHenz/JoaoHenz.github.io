@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I finished my Computer Science bachelor course at UFRGS (1/2019). I have 5+ years of experience in programming, 2 years of professional experience working with digital games and have been a part of multiple sucessful game jam teams.
+I finished my Computer Science bachelor course at UFRGS (1/2019). I have 5+ years of experience in programming, 3 years of professional experience working with digital games and have been a part of multiple sucessful game jam teams.
 
 I also have a lot of experience with machine learning and procedural content generation. My Computer Science conclusion work was in the area of Procedural Terrain Generation via Machine Learning. I love working with a team, coordinating our efforts and dealing with difficult programming challenges. I aspire to one day lead a game dev team.
 
@@ -11,7 +11,7 @@ Previous experience with
 - Unity, Gamemaker, Unreal Engine
 - SourceTree, Git, Fork, XCode, Transporter, Android Studio
 - Agile Methodologies, ClickUp, Trello
-- AppStore, PlayStore
+- AppStore, Google Play, web environments
 - Very advanced english skills, native speaker of portuguese, moderate skills with german and basic skills in japanese
 
 <p align="center">
@@ -22,7 +22,22 @@ Previous experience with
 
 ## Game Programmer at Izyplay Game Studio: 
 ### September, 2020 -> Present
-I am currently working with at Izyplay Game Studio in Porto Alegre.
+I am currently working with at Izyplay Game Studio in Porto Alegre. We work mostly with mobile games, but some of our games have also been a success in the web. We have a very fast pace here, and I have worked in dozens of projects. Here are some of the most notable I have worked on:
+
+![Adventure Miner Logo](/assets/images/adventureminer_logo.png)
+![Adventure Miner Gameplay](/assets/images/adventureminer.png)
+Adventure Miner - More than 3 million downloads on mobile, and a success on the web
+[Adventure Miner . App Store](https://apps.apple.com/us/app/adventure-miner/id1570634510)<br/>
+[Adventure Miner . Google Play](https://play.google.com/store/apps/details?id=com.izyplay.adventureminer)<br/>
+[Adventure Miner . CrazyGames](https://www.crazygames.com.br/jogos/adventure-miner)<br/>
+<br/><br/>
+
+![Fisherman Life Logo](/assets/images/fisherman_logo.png)
+![Fisherman Life Gameplay](/assets/images/fisherman.png)
+Fisherman Life - Chosen by [RisingHigh Academy](https://www.linkedin.com/company/risinghigh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BrbRKRuEhR%2F6mqyPox%2FLP%2BA%3D%3D) as one of the 12 best of november 2021
+[Fisherman Life . App Store](https://apps.apple.com/br/app/fisherman-life/id1592310424)<br/>
+[Fisherman Life . Google Play](https://play.google.com/store/apps/details?id=com.izyplay.fishermanlife&hl=pt_BR&gl=US)<br/>
+<br/><br/>
 
 # Old freelancer work:
 
