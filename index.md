@@ -26,17 +26,17 @@ I am currently working with at Izyplay Game Studio in Porto Alegre. We work most
 
 ![Adventure Miner Logo](/assets/images/adventureminer_logo.png)
 ![Adventure Miner Gameplay](/assets/images/adventureminer.png)
-Adventure Miner - More than 3 million downloads on mobile, and a success on the web
-[Adventure Miner . App Store](https://apps.apple.com/us/app/adventure-miner/id1570634510)<br/>
-[Adventure Miner . Google Play](https://play.google.com/store/apps/details?id=com.izyplay.adventureminer)<br/>
-[Adventure Miner . CrazyGames](https://www.crazygames.com.br/jogos/adventure-miner)<br/>
+Adventure Miner - More than 3 million downloads on mobile, and a success on the web<br/>
+[- App Store](https://apps.apple.com/us/app/adventure-miner/id1570634510)<br/>
+[- Google Play](https://play.google.com/store/apps/details?id=com.izyplay.adventureminer)<br/>
+[- CrazyGames](https://www.crazygames.com.br/jogos/adventure-miner)<br/>
 <br/><br/>
 
 ![Fisherman Life Logo](/assets/images/fisherman_logo.png)
 ![Fisherman Life Gameplay](/assets/images/fisherman.png)
-Fisherman Life - Chosen by [RisingHigh Academy](https://www.linkedin.com/company/risinghigh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BrbRKRuEhR%2F6mqyPox%2FLP%2BA%3D%3D) as one of the 12 best of november 2021
-[Fisherman Life . App Store](https://apps.apple.com/br/app/fisherman-life/id1592310424)<br/>
-[Fisherman Life . Google Play](https://play.google.com/store/apps/details?id=com.izyplay.fishermanlife&hl=pt_BR&gl=US)<br/>
+Fisherman Life - Chosen by [RisingHigh Academy](https://www.linkedin.com/company/risinghigh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BrbRKRuEhR%2F6mqyPox%2FLP%2BA%3D%3D) as one of the 12 best of november 2021<br/>
+[- App Store](https://apps.apple.com/br/app/fisherman-life/id1592310424)<br/>
+[- Google Play](https://play.google.com/store/apps/details?id=com.izyplay.fishermanlife&hl=pt_BR&gl=US)<br/>
 <br/><br/>
 
 # Old freelancer work:
