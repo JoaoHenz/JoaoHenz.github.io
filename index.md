@@ -97,7 +97,7 @@ Pacman - A small Pacman remake I made in Unity following closely the AI of the o
 [github.com/SaintBallista/pacmantest](https://github.com/SaintBallista/pacmantest)<br/><br/>
 
 ![Conclusion Work](/assets/images/tcc.png)
-Virtual Realistic and Large Terrain Generation via Machine Learning - My conclusion work for my Bachelor's Degree in Computer Science (UFRGS)
+Virtual Realistic and Large Terrain Generation via Machine Learning - My conclusion work for my Bachelor's Degree in Computer Science (UFRGS)<br/>
 [lume.ufrgs.br/handle/10183/198604](https://lume.ufrgs.br/handle/10183/198604)<br/>
 [github.com/SaintBallista/styleterrain](https://github.com/SaintBallista/styleterrain)<br/><br/><br/>
 
