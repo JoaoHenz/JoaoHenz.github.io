@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-[linkedin.com/joao-henz](https://www.linkedin.com/in/joao-henz/)<br/>
-[github.com/JoaoHenz](https://github.com/JoaoHenz)<br/>
-jmaniquehenz@gmail.com
 
 A software engineer hungry for knowledge and new challenges!
 
@@ -20,6 +17,10 @@ Previous experience with
 - Agile Methodologies, ClickUp, Trello
 - AppStore, Google Play, web environments
 - Very advanced english skills, native speaker of portuguese, moderate skills with german and basic skills in japanese
+
+[linkedin.com/joao-henz](https://www.linkedin.com/in/joao-henz/)<br/>
+[github.com/JoaoHenz](https://github.com/JoaoHenz)<br/>
+jmaniquehenz@gmail.com
 
 <p align="center">
   <img src="assets/images/goodphoto.jpg" alt="Foto Joao Henz" width="200" />
