@@ -18,13 +18,13 @@ Previous experience with
 - AppStore, Google Play, web environments
 - Very advanced english skills, native speaker of portuguese, moderate skills with german and basic skills in japanese
 
-[linkedin.com/joao-henz](https://www.linkedin.com/in/joao-henz/)<br/>
-[github.com/JoaoHenz](https://github.com/JoaoHenz)<br/>
-jmaniquehenz@gmail.com
-
 <p align="center">
   <img src="assets/images/goodphoto.jpg" alt="Foto Joao Henz" width="200" />
 </p>
+
+[linkedin.com/joao-henz](https://www.linkedin.com/in/joao-henz/)<br/>
+[github.com/JoaoHenz](https://github.com/JoaoHenz)<br/>
+[jmaniquehenz@gmail.com](mailto:jmaniquehenz@gmail.com)<br/>
 
 # Current Projects:
 
