@@ -2,9 +2,13 @@
 layout: default
 ---
 
-I finished my Computer Science bachelor course at UFRGS (1/2019). I have 5+ years of experience in programming, 3 years of professional experience working with digital games and have been a part of multiple sucessful game jam teams.
+A software engineer hungry for knowledge and new challenges.
 
-I also have a lot of experience with machine learning and procedural content generation. My Computer Science conclusion work was in the area of Procedural Terrain Generation via Machine Learning. I love working with a team, coordinating our efforts and dealing with difficult programming challenges. I aspire to one day lead a game dev team.
+I've been working for three years in the game development industry and it is an area I have a deep appreciation for and I am always searching for new ways to grow in it. I am also a big fan of procedural generation and machine learning - my computer science conclusion work was in the area of Procedural Terrain Generation via Machine Learning. 
+
+I love working with more people, coordinating our efforts and dealing with difficult programming challenges. In my experience leading teams, I am happy when I can optimize processes and enable the people inside it to better develop their skills.
+
+I am currently working at Izyplay Game Studio in Porto Alegre.
 
 Previous experience with
 - C, C#, C++, Java, Python, html, javascript, PHP
@@ -22,7 +26,8 @@ Previous experience with
 
 ## Game Programmer at Izyplay Game Studio: 
 ### September, 2020 -> Present
-I am currently working with at Izyplay Game Studio in Porto Alegre. We work mostly with mobile games, but some of our games have also been a success in the web. We have a very fast pace here, and I have worked in dozens of projects. Here are some of the most notable I have worked on:
+Responsible for implementing gameplay features, translating requirements from the
+game design team, sdk integrations, porting for web and other platforms. The company has a very fast pace, and I have worked in dozens of projects. I am also responsible for modelling game and networking systems for new projects. Here are some of the most notable projects I have worked on:
 
 ![Adventure Miner Logo](/assets/images/adventureminer_logo.png)
 ![Adventure Miner Gameplay](/assets/images/adventureminer.png)
@@ -43,7 +48,10 @@ Fisherman Life - Chosen by [RisingHigh Academy](https://www.linkedin.com/company
 
 ## Software Developer at MegaDev: 
 ### October, 2019 -> October, 2020
-In MegaDev I work with a team of 4 developers at a distance. This project involves the complete development of a MMORPG inspired by a classic of the genre using the Unity Engine. I am responsible for almost all client related systems and we are in late stages of development, joining front and backend of the project.
+In MegaDev I worked with a team of 4 developers at a distance. This project involved the
+complete development of a MMORPG inspired by a classic of the genre using the Unity Engine. I
+was responsible for almost all client related systems and we were in late stages of development,
+joining front and backend of the project.
 
 ![Vendor NPC](/assets/images/mega1.png)
 Vendor NPC interaction
@@ -53,7 +61,9 @@ Combat with monsters and special skills usage
 
 ## Software Developer at WorldRag / NewRO:
 ### December, 2019 -> October, 2020
-I work with a team of 3 developers working at a distance in the WorldRag and Newro servers. I am responsible mainly for content creation - new dungeons, cities, instances and events. All of this is done using python, SQL and [rAthena's script language](https://rathena.org/). I have also been responsible for the implementation of multiple online features for the server's website using PHP and HTML.
+I was responsible mainly for content creation - new dungeons, cities, instances and events. All of
+this was done using python, SQL and a private script language. I have also been responsible for
+the implementation of multiple online features for the server's website using PHP and HTML.
 
 ![Mysteries of Geffenia](/assets/images/rag2.png)
 The "Mysteries of Geffenia" was a series of dungeons connected to a bigger story driven event called "War Against Urheimur"
