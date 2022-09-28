@@ -2,7 +2,7 @@
 layout: default
 ---
 
-A software engineer hungry for knowledge and new challenges.
+A software engineer hungry for knowledge and new challenges!
 
 I've been working for three years in the game development industry and it is an area I have a deep appreciation for and I am always searching for new ways to grow in it. I am also a big fan of procedural generation and machine learning - my computer science conclusion work was in the area of Procedural Terrain Generation via Machine Learning. 
 
