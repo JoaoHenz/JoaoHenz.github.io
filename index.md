@@ -8,7 +8,7 @@ I've been working for three years in the game development industry and it is an 
 
 I love working with more people, coordinating our efforts and dealing with difficult programming challenges. In my experience leading teams, I am happy when I can optimize processes and enable the people inside it to better develop their skills.
 
-I am currently working at Izyplay Game Studio in Porto Alegre.
+I am currently working at Poatek in Porto Alegre.
 
 Previous experience with
 - C, C#, C++, Java, Python, html, javascript, PHP
@@ -26,10 +26,10 @@ Previous experience with
 [github.com/JoaoHenz](https://github.com/JoaoHenz)<br/>
 [jmaniquehenz@gmail.com](mailto:jmaniquehenz@gmail.com)<br/>
 
-# Current Projects:
+# Projects:
 
 ## Game Programmer at Izyplay Game Studio: 
-### September, 2020 -> Present
+### September, 2020 -> January, 2023
 Responsible for implementing gameplay features, translating requirements from the
 game design team, sdk integrations, porting for web and other platforms. The company has a very fast pace, and I have worked in dozens of projects. I am also responsible for modelling game and networking systems for new projects. Here are some of the most notable projects I have worked on:
 
@@ -48,7 +48,7 @@ Fisherman Life - Chosen by [RisingHigh Academy](https://www.linkedin.com/company
 [- Google Play](https://play.google.com/store/apps/details?id=com.izyplay.fishermanlife&hl=pt_BR&gl=US)<br/>
 <br/><br/>
 
-# Old freelancer work:
+# Freelancer work:
 
 ## Software Developer at MegaDev: 
 ### October, 2019 -> October, 2020
